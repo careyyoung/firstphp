@@ -1,0 +1,10 @@
+{
+  "simulation": "first.simulation.HarSimulation1",
+  "simulationId": "harsimulation1",
+  "start": 1471084970988,
+  "description": "",
+  "scenarios": ["HarSimulation1"],
+  "assertions": [
+
+  ]
+}
