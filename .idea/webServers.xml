@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="deaf9cff-3bf7-4f13-9942-38b5256416ef" name="waftest-wamp" url="http://localhost/firstphp/">
+        <fileTransfer port="0" mountedRoot="F:\wamp\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
